@@ -50,3 +50,20 @@ If you are working on something interesting and need someone for hardware, proto
 - **Slack:** `@Artisfera`
 
 Thanks for stopping by ✨
+
+
+
+## Versioning note
+
+This is my personal project versioning system:
+
+`X.Y.Z`
+
+- **X** , main version  
+  A finished major version where everything that was supposed to work is working.
+
+- **Y** , subversion  
+  Not fully finished, but stable and good for the current stage. Not everything is done yet, but the parts that should work already work and do not crash.
+
+- **Z** , sub-subversion  
+  The latest saved change inside a version or subversion. This is more like a raw progress marker, so there is a high chance that something that should work still does not work yet.
