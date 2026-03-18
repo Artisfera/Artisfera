@@ -13,8 +13,6 @@ Right now, I am mainly focused on projects related to:
 - project presentation, storytelling, and pitch building
 - photography and video for demos and documentation
 
-I am still building up my GitHub, so some parts may be a bit empty for now.
-
 ## 🛠️ What I work with
 
 - analog and digital electronics, IoT, ESP32
