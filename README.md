@@ -27,6 +27,7 @@ Outside of technical projects, I am also interested in:
 
 - hydroponics
 - aquariums
+- Photography / Filmography
 - consoles, especially from the side of modding and history  
   *(I can already say that I am planning to organize "NeWays to Play!"🤫)*
 - sports, especially cycling, gym training, rollerblading, and volleyball
