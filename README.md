@@ -9,7 +9,7 @@ Here you will find my projects, their progress, the parts that did not work, wha
 Right now, I am mainly focused on projects related to:
 
 - electronics and DIY prototyping
-- IoT, ESP32, and analog or digital circuits
+- IoT and analog/digital circuits
 - project presentation, storytelling, and pitch building
 - photography and video for demos and documentation
 
