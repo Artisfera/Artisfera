@@ -1,4 +1,4 @@
-# Hi there 💪
+# Hi there!
 
 I am a teenage builder working at the intersection of electronics, DIY prototyping, media, and creative experiments.
 
